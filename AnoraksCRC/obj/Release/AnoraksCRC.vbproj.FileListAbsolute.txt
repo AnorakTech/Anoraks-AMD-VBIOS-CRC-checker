@@ -1,0 +1,20 @@
+C:\Users\Anorak\Documents\Visual Studio 2015\Projects\AnoraksCRC\AnoraksCRC\bin\Release\Anoraks AMD VBIOS CRC checker v1.exe
+C:\Users\Anorak\Documents\Visual Studio 2015\Projects\AnoraksCRC\AnoraksCRC\bin\Release\Anoraks AMD VBIOS CRC checker v1.pdb
+C:\Users\Anorak\Documents\Visual Studio 2015\Projects\AnoraksCRC\AnoraksCRC\bin\Release\Anoraks AMD VBIOS CRC checker v1.xml
+C:\Users\Anorak\Documents\Visual Studio 2015\Projects\AnoraksCRC\AnoraksCRC\obj\Release\AnoraksCRC.vbprojResolveAssemblyReference.cache
+C:\Users\Anorak\Documents\Visual Studio 2015\Projects\AnoraksCRC\AnoraksCRC\obj\Release\AnoraksCRC.Form1.resources
+C:\Users\Anorak\Documents\Visual Studio 2015\Projects\AnoraksCRC\AnoraksCRC\obj\Release\AnoraksCRC.Resources.resources
+C:\Users\Anorak\Documents\Visual Studio 2015\Projects\AnoraksCRC\AnoraksCRC\obj\Release\AnoraksCRC.vbproj.GenerateResource.Cache
+C:\Users\Anorak\Documents\Visual Studio 2015\Projects\AnoraksCRC\AnoraksCRC\obj\Release\Anoraks AMD VBIOS CRC checker v1.exe
+C:\Users\Anorak\Documents\Visual Studio 2015\Projects\AnoraksCRC\AnoraksCRC\obj\Release\Anoraks AMD VBIOS CRC checker v1.xml
+C:\Users\Anorak\Documents\Visual Studio 2015\Projects\AnoraksCRC\AnoraksCRC\obj\Release\Anoraks AMD VBIOS CRC checker v1.pdb
+C:\AnoraksCRC\AnoraksCRC\obj\Release\Anoraks AMD VBIOS CRC checker v1.exe
+C:\AnoraksCRC\AnoraksCRC\obj\Release\Anoraks AMD VBIOS CRC checker v1.xml
+C:\AnoraksCRC\AnoraksCRC\obj\Release\Anoraks AMD VBIOS CRC checker v1.pdb
+C:\AnoraksCRC\AnoraksCRC\bin\Release\Anoraks AMD VBIOS CRC checker v1.exe
+C:\AnoraksCRC\AnoraksCRC\bin\Release\Anoraks AMD VBIOS CRC checker v1.pdb
+C:\AnoraksCRC\AnoraksCRC\bin\Release\Anoraks AMD VBIOS CRC checker v1.xml
+C:\AnoraksCRC\AnoraksCRC\obj\Release\AnoraksCRC.vbprojResolveAssemblyReference.cache
+C:\AnoraksCRC\AnoraksCRC\obj\Release\AnoraksCRC.Form1.resources
+C:\AnoraksCRC\AnoraksCRC\obj\Release\AnoraksCRC.Resources.resources
+C:\AnoraksCRC\AnoraksCRC\obj\Release\AnoraksCRC.vbproj.GenerateResource.Cache
